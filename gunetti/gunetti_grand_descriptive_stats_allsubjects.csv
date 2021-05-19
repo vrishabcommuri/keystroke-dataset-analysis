@@ -1,0 +1,13 @@
+Gunetti,DD Latencies
+mean,229.902
+std,113.59
+max,599.0
+min,21.0
+range,578.0
+skewness,1.066
+kurtosis,0.789
+25% quartile,150.0
+50% quartile,200.0
+75% quartile,280.0
+mode,170.0
+median,200.0
