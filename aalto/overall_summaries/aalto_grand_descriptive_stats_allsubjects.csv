@@ -1,0 +1,13 @@
+Aalto,DD Latencies
+mean,194.85
+std,158.909
+max,5180.0
+min,0.0
+range,5180.0
+skewness,4.643
+kurtosis,53.169
+25% quartile,123.0
+50% quartile,155.0
+75% quartile,218.0
+mode,125.0
+median,155.0
