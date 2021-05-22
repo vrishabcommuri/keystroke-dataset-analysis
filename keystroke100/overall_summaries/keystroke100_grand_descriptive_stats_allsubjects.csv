@@ -1,0 +1,13 @@
+Keystroke100,DD Latencies
+mean,271.897
+std,145.397
+max,1735.0
+min,16.0
+range,1719.0
+skewness,1.991
+kurtosis,7.6
+25% quartile,187.0
+50% quartile,235.0
+75% quartile,328.0
+mode,203.0
+median,235.0
