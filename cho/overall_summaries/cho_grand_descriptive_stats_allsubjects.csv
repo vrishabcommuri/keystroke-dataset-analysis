@@ -1,0 +1,13 @@
+cho,Holds,UD Latencies
+mean,104.933,30.885
+std,33.005,82.596
+max,330.0,1080.0
+min,0.0,-240.0
+range,330.0,1320.0
+skewness,0.647,1.011
+kurtosis,0.532,3.755
+25% quartile,90.0,-30.0
+50% quartile,90.0,30.0
+75% quartile,120.0,90.0
+mode,90.0,-30.0
+median,90.0,30.0
